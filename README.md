@@ -6,7 +6,8 @@ Descripion
 A Shanghai metro transfer system to tell you the shortest way from location to destination.<br>
 This project is the last version of my course design about Data Structre.<br>
 * develop environment : Qt5.9.1
-* lala
+* Finish time : 2017.9.16
+* algorithm : BFS
 
 Structure
 --------------
@@ -18,9 +19,9 @@ Structure
 
 Demo
 --------------
-![](https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/all.png)
-![](https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/wrong.png)
-![](https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/find.png)
+<img width="80%" height="80%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/all.png"/>
+<img width="80%" height="80%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/wrong.png"/>
+<img width="80%" height="80%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/find.png"/>
 
 Reference
 --------------
