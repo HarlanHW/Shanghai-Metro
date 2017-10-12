@@ -21,13 +21,13 @@ Demo
 --------------
 
 * Start system
-<img width="80%" height="80%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/all.png"/>
+<img width="70%" height="70%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/all.png"/>
 
 * Find the way
-<img width="80%" height="80%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/find.png"/>
+<img width="70%" height="70%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/find.png"/>
 
 * Have a wrong station
-<img width="80%" height="80%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/wrong.png"/>
+<img width="70%" height="70%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/wrong.png"/>
 
 Reference
 --------------
