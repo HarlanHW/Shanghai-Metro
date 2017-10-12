@@ -1,13 +1,13 @@
-
+**
 Shanghai-Metro
 ==============
 Descripion
 --------------
 A Shanghai metro transfer system to tell you the shortest way from location to destination.<br>
 This project is the last version of my course design about Data Structre.<br>
-* develop environment : Qt5.9.1
-* Finish time : 2017.9.16
-* algorithm : BFS
+* **develop environment :** Qt5.9.1
+* **Finish time :** 2017.9.16
+* **algorithm :** BFS
 
 Structure
 --------------
@@ -20,13 +20,13 @@ Structure
 Demo
 --------------
 
-* Start system
+* **Start system**
 <img width="70%" height="70%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/all.png"/>
 
-* Find the way
+* **Find the way**
 <img width="70%" height="70%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/find.png"/>
 
-* Have a wrong station
+* **Have a wrong station**
 <img width="70%" height="70%" src="https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/wrong.png"/>
 
 Reference
