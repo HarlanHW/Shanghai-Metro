@@ -1,3 +1,4 @@
+
 Shanghai-Metro
 ==============
 Descripion
@@ -9,6 +10,7 @@ This project is the last version of my course design about Data Structre.<br>
 
 Structure
 --------------
+  ![]https://github.com/HarlanHW/Shanghai-Metro/raw/master/Image/class.png
 
 Demo
 --------------
